@@ -8,6 +8,8 @@ Demo online: [erd.swatizen.com](https://erd.swatizen.com)
 
 ![Tampilan ERD Studio](./erd-studio-screenshot.png)
 
+Video demo: [Tonton demo ERD Studio di YouTube](https://youtu.be/t9m2o4VMvnQ)
+
 ## Fitur
 
 - **Kanvas diagram interaktif** — buat entitas (tabel) dengan sekali klik, geser untuk memindahkan, seret kanvas untuk _pan_, dan gulir untuk _zoom_.
