@@ -4,6 +4,8 @@
 
 Antarmuka menggunakan Bahasa Indonesia.
 
+Demo online: [erd.swatizen.com](https://erd.swatizen.com)
+
 ![Tampilan ERD Studio](./erd-studio-screenshot.png)
 
 ## Fitur
