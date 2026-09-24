@@ -4,6 +4,8 @@
 
 Antarmuka menggunakan Bahasa Indonesia.
 
+![Tampilan ERD Studio](./erd-studio-screenshot.png)
+
 ## Fitur
 
 - **Kanvas diagram interaktif** — buat entitas (tabel) dengan sekali klik, geser untuk memindahkan, seret kanvas untuk _pan_, dan gulir untuk _zoom_.
